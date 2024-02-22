@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://haside.github.io/sitemap.txt
